@@ -1,5 +1,9 @@
 # phploremispum
 phploremipsum is a simple lorem text generator.
+## Install
+```
+composer require antoineg/phploremipsum
+```
 ## How to use it:
 ```php
 $lorem = new agli\Lorem();
