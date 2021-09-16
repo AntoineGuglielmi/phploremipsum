@@ -1,0 +1,21 @@
+{
+    "name": "antoineg/loremipsum",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [{
+        "name": "Antoine Guglielmi",
+        "email": "contact.antoine.guglielmi@gmail.com",
+        "role": "Developer"
+    }],
+    "support": {
+        "email": "contact.antoine.guglielmi@gmail.com"
+    },
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "agli\\": "src/"
+        }
+    }
+}
